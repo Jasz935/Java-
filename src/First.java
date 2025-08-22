@@ -26,9 +26,7 @@ public class First {
         Float ar = h * b ;
         System.out.println("El perímetro del rectángulo es= "+ p);
         System.out.println("Y su área es= "+ ar);
-
-        System.out.println();
-        System.out.println();
+        
 
     }
 }
